@@ -1,0 +1,661 @@
+2025-04-04 18:53:40,743 [INFO] Application starting...
+2025-04-04 18:53:40,744 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 18:53:41,548 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 18:53:41,662 [INFO] GUI displayed. Starting event loop.
+2025-04-04 18:54:02,219 [INFO] Settings saved to settings.json
+2025-04-04 18:54:02,223 [INFO] Setting up ChromeDriver...
+2025-04-04 18:54:02,223 [INFO] ====== WebDriver manager ======
+2025-04-04 18:54:03,174 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 18:54:03,342 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 18:54:03,469 [INFO] There is no [win64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-04 18:54:03,469 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 18:54:03,786 [INFO] WebDriver version 134.0.6998.165 selected
+2025-04-04 18:54:03,788 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-04 18:54:03,788 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-04 18:54:04,021 [INFO] Driver downloading response is 200
+2025-04-04 18:54:04,646 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 18:54:04,869 [INFO] Driver has been saved in cache [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-04-04 18:54:06,131 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-04 18:59:18,700 [INFO] Application starting...
+2025-04-04 18:59:18,701 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 18:59:19,235 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 18:59:19,352 [INFO] GUI displayed. Starting event loop.
+2025-04-04 18:59:20,815 [INFO] Settings saved to settings.json
+2025-04-04 18:59:20,819 [INFO] Setting up ChromeDriver using manual path...
+2025-04-04 18:59:20,819 [ERROR] Failed to start ChromeDriver from manual path: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-04-04 18:59:20,819 [ERROR] WebDriver setup failed: Message: ChromeDriver manual setup failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+
+2025-04-04 18:59:20,820 [CRITICAL] Fatal Error: Failed to initialize WebDriver: Message: ChromeDriver manual setup failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+
+2025-04-04 19:00:17,899 [INFO] Settings saved to settings.json
+2025-04-04 19:00:17,901 [INFO] Setting up ChromeDriver using manual path...
+2025-04-04 19:00:17,901 [ERROR] Failed to start ChromeDriver from manual path: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-04-04 19:00:17,901 [ERROR] WebDriver setup failed: Message: ChromeDriver manual setup failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+
+2025-04-04 19:00:17,901 [CRITICAL] Fatal Error: Failed to initialize WebDriver: Message: ChromeDriver manual setup failed: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+
+2025-04-04 19:00:23,595 [INFO] Settings saved to settings.json
+2025-04-04 19:00:23,595 [INFO] Application closing. Settings saved.
+2025-04-04 19:00:28,283 [INFO] Application starting...
+2025-04-04 19:00:28,283 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 19:00:28,729 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 19:00:28,834 [INFO] GUI displayed. Starting event loop.
+2025-04-04 19:00:29,953 [INFO] Settings saved to settings.json
+2025-04-04 19:00:29,957 [INFO] Setting up ChromeDriver using manual path...
+2025-04-04 19:01:36,457 [INFO] Application starting...
+2025-04-04 19:01:36,457 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 19:01:36,927 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 19:01:37,031 [INFO] GUI displayed. Starting event loop.
+2025-04-04 19:01:41,187 [INFO] Settings saved to settings.json
+2025-04-04 19:01:41,191 [INFO] Setting up ChromeDriver...
+2025-04-04 19:01:41,192 [INFO] ====== WebDriver manager ======
+2025-04-04 19:01:42,106 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:01:42,283 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:01:42,414 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-04 19:01:43,472 [INFO] Chrome driver initialized  .
+2025-04-04 19:05:56,658 [INFO] Application starting...
+2025-04-04 19:05:56,658 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 19:05:57,124 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 19:05:57,250 [INFO] GUI displayed. Starting event loop.
+2025-04-04 19:06:06,865 [INFO] Settings saved to settings.json
+2025-04-04 19:06:06,868 [INFO] Setting up ChromeDriver...
+2025-04-04 19:06:06,869 [INFO] ====== WebDriver manager ======
+2025-04-04 19:06:07,768 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:06:07,944 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:06:08,070 [INFO] There is no [win64] chromedriver "135.0.7049.42" for browser google-chrome "135.0.7049" in cache
+2025-04-04 19:06:08,071 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:06:08,435 [INFO] WebDriver version 135.0.7049.42 selected
+2025-04-04 19:06:08,437 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-04 19:06:08,437 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-04 19:06:08,677 [INFO] Driver downloading response is 200
+2025-04-04 19:06:09,380 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:06:09,597 [INFO] Driver has been saved in cache [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42]
+2025-04-04 19:06:10,831 [INFO] Chrome driver initialized  .
+2025-04-04 19:08:53,352 [INFO] Application starting...
+2025-04-04 19:08:53,352 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-04 19:08:53,863 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-04 19:08:53,990 [INFO] GUI displayed. Starting event loop.
+2025-04-04 19:08:56,477 [INFO] Settings saved to settings.json
+2025-04-04 19:08:56,481 [INFO] Driver setup for https://www.google.com with anti-detection: False
+2025-04-04 19:08:56,481 [INFO] Setting up ChromeDriver...
+2025-04-04 19:08:56,481 [INFO] ====== WebDriver manager ======
+2025-04-04 19:08:57,386 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:08:57,515 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-04 19:08:57,645 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-04 19:08:58,706 [INFO] Chrome driver initialized  .
+2025-04-04 19:08:58,706 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-04 19:08:58,707 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-04 19:09:01,381 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-04 19:09:01,381 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 12:44:03,138 [INFO] Application starting...
+2025-04-06 12:44:03,139 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 12:44:04,862 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 12:44:05,134 [INFO] GUI displayed. Starting event loop.
+2025-04-06 12:44:07,075 [INFO] Settings saved to settings.json
+2025-04-06 12:44:07,079 [INFO] Driver setup for https://www.google.com with anti-detection: False
+2025-04-06 12:44:07,079 [INFO] Setting up ChromeDriver...
+2025-04-06 12:44:07,079 [INFO] ====== WebDriver manager ======
+2025-04-06 12:44:07,952 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:44:08,127 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:44:08,249 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:44:08,558 [INFO] WebDriver version 135.0.7049.42 selected
+2025-04-06 12:44:08,560 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-06 12:44:08,560 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-06 12:44:08,772 [INFO] Driver downloading response is 200
+2025-04-06 12:44:09,265 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:44:09,485 [INFO] Driver has been saved in cache [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42]
+2025-04-06 12:44:10,660 [INFO] Chrome driver initialized  .
+2025-04-06 12:44:10,660 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 12:44:10,662 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 12:44:13,388 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 12:53:45,174 [INFO] Application starting...
+2025-04-06 12:53:45,174 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 12:53:46,109 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 12:53:46,342 [INFO] GUI displayed. Starting event loop.
+2025-04-06 12:53:47,847 [INFO] Settings saved to settings.json
+2025-04-06 12:53:47,850 [INFO] Driver setup for https://www.google.com with anti-detection: False
+2025-04-06 12:53:47,850 [INFO] Setting up ChromeDriver...
+2025-04-06 12:53:47,851 [INFO] ====== WebDriver manager ======
+2025-04-06 12:53:48,747 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:53:48,953 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:53:49,075 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:53:50,154 [INFO] Chrome driver initialized  .
+2025-04-06 12:53:50,154 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 12:53:50,155 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 12:53:52,545 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 12:53:52,545 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 12:53:54,647 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 12:53:54,647 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 12:53:55,976 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 12:53:55,976 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 12:53:58,066 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 12:53:58,066 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: False
+2025-04-06 12:53:58,066 [INFO] Setting up ChromeDriver...
+2025-04-06 12:53:58,066 [INFO] ====== WebDriver manager ======
+2025-04-06 12:53:58,922 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:54:03,126 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:54:03,244 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:54:04,229 [INFO] Chrome driver initialized  .
+2025-04-06 12:54:04,229 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 12:54:04,230 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 12:54:04,827 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 12:54:04,827 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 12:54:04,959 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 12:54:04,959 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 12:54:05,091 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 12:54:05,091 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 12:54:07,167 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 12:54:07,167 [INFO] Driver setup for https://github.com with anti-detection: False
+2025-04-06 12:54:07,167 [INFO] Setting up ChromeDriver...
+2025-04-06 12:54:07,167 [INFO] ====== WebDriver manager ======
+2025-04-06 12:54:08,034 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:54:12,238 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:54:12,356 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:54:13,341 [INFO] Chrome driver initialized  .
+2025-04-06 12:54:13,341 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 12:54:13,341 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 12:54:15,910 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 12:54:15,910 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 12:54:17,034 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 12:54:17,034 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 12:54:18,153 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 12:54:18,153 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 12:54:20,261 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 12:54:20,261 [INFO] Worker thread run method finished.
+2025-04-06 12:54:37,053 [INFO] Settings saved to settings.json
+2025-04-06 12:54:37,053 [INFO] Application closing. Settings saved.
+2025-04-06 12:55:57,240 [INFO] Application starting...
+2025-04-06 12:55:57,240 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 12:55:57,729 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 12:55:57,833 [INFO] GUI displayed. Starting event loop.
+2025-04-06 12:55:59,559 [INFO] Settings saved to settings.json
+2025-04-06 12:55:59,563 [INFO] Driver setup for https://www.google.com with anti-detection: False
+2025-04-06 12:55:59,563 [INFO] Setting up ChromeDriver...
+2025-04-06 12:55:59,563 [INFO] ====== WebDriver manager ======
+2025-04-06 12:56:00,409 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:56:00,531 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:56:00,662 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:56:01,662 [INFO] Chrome driver initialized  .
+2025-04-06 12:56:01,662 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 12:56:01,662 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 12:56:04,489 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 12:56:04,489 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 12:58:52,123 [INFO] Application starting...
+2025-04-06 12:58:52,124 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 12:58:52,610 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 12:58:52,709 [INFO] GUI displayed. Starting event loop.
+2025-04-06 12:58:59,587 [INFO] Settings saved to settings.json
+2025-04-06 12:58:59,590 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 12:58:59,591 [INFO] Setting up ChromeDriver...
+2025-04-06 12:58:59,591 [INFO] ====== WebDriver manager ======
+2025-04-06 12:59:00,438 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:00,574 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:00,696 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:59:01,693 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 12:59:01,693 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 12:59:01,694 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 12:59:04,398 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 12:59:04,486 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 12:59:06,953 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 12:59:07,029 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 12:59:08,578 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 12:59:08,659 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 12:59:10,745 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 12:59:10,745 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 12:59:10,745 [INFO] Setting up ChromeDriver...
+2025-04-06 12:59:10,746 [INFO] ====== WebDriver manager ======
+2025-04-06 12:59:11,601 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:15,817 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:15,943 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:59:16,937 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 12:59:16,938 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 12:59:16,938 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 12:59:17,453 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 12:59:17,561 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 12:59:17,844 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 12:59:17,941 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 12:59:18,221 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 12:59:18,320 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 12:59:20,398 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 12:59:20,398 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 12:59:20,398 [INFO] Setting up ChromeDriver...
+2025-04-06 12:59:20,398 [INFO] ====== WebDriver manager ======
+2025-04-06 12:59:21,266 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:25,474 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 12:59:25,593 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 12:59:26,578 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 12:59:26,578 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 12:59:26,580 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 12:59:28,284 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 12:59:28,409 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 12:59:29,765 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 12:59:29,903 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 12:59:31,155 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 12:59:31,298 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 12:59:33,390 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 12:59:33,390 [INFO] Worker thread run method finished.
+2025-04-06 12:59:42,723 [INFO] Settings saved to settings.json
+2025-04-06 12:59:42,723 [INFO] Application closing. Settings saved.
+2025-04-06 13:11:40,442 [INFO] Application starting...
+2025-04-06 13:11:40,442 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:11:41,009 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:11:41,437 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:11:52,042 [INFO] Settings saved to settings.json
+2025-04-06 13:11:52,045 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:11:52,046 [INFO] Setting up ChromeDriver...
+2025-04-06 13:11:52,046 [INFO] ====== WebDriver manager ======
+2025-04-06 13:11:52,920 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:11:53,046 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:11:53,173 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:11:54,251 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:11:54,251 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:11:54,253 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:11:56,802 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:11:56,882 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:11:59,085 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:11:59,164 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:12:01,481 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:12:01,563 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:12:13,614 [INFO] Application starting...
+2025-04-06 13:12:13,614 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:12:14,035 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:12:14,133 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:12:19,560 [INFO] Settings saved to settings.json
+2025-04-06 13:12:19,564 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:12:19,565 [INFO] Setting up ChromeDriver...
+2025-04-06 13:12:19,565 [INFO] ====== WebDriver manager ======
+2025-04-06 13:12:20,448 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:20,588 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:20,716 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:12:21,745 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:12:21,746 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:12:21,746 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:12:24,039 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:12:24,121 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:12:24,121 [INFO] GUI Thread received result signal for URL: https://www.google.com
+2025-04-06 13:12:26,296 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:12:26,373 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:12:26,373 [INFO] GUI Thread received result signal for URL: https://www.google.com
+2025-04-06 13:12:28,389 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:12:28,467 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:12:28,467 [INFO] GUI Thread received result signal for URL: https://www.google.com
+2025-04-06 13:12:30,567 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:12:30,567 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:12:30,567 [INFO] Setting up ChromeDriver...
+2025-04-06 13:12:30,567 [INFO] ====== WebDriver manager ======
+2025-04-06 13:12:31,432 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:35,620 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:35,740 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:12:36,804 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:12:36,804 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 13:12:36,805 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 13:12:37,375 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 13:12:37,482 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 13:12:37,482 [INFO] GUI Thread received result signal for URL: https://www.wikipedia.org
+2025-04-06 13:12:37,772 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 13:12:37,872 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 13:12:37,872 [INFO] GUI Thread received result signal for URL: https://www.wikipedia.org
+2025-04-06 13:12:38,166 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 13:12:38,264 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 13:12:38,264 [INFO] GUI Thread received result signal for URL: https://www.wikipedia.org
+2025-04-06 13:12:40,342 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 13:12:40,342 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 13:12:40,342 [INFO] Setting up ChromeDriver...
+2025-04-06 13:12:40,342 [INFO] ====== WebDriver manager ======
+2025-04-06 13:12:41,219 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:45,446 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:12:45,571 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:12:46,559 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:12:46,559 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 13:12:46,560 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 13:12:48,092 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 13:12:48,243 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 13:12:48,243 [INFO] GUI Thread received result signal for URL: https://github.com
+2025-04-06 13:12:49,643 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 13:12:49,789 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 13:12:49,789 [INFO] GUI Thread received result signal for URL: https://github.com
+2025-04-06 13:12:51,117 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 13:12:51,278 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 13:12:51,278 [INFO] GUI Thread received result signal for URL: https://github.com
+2025-04-06 13:12:53,378 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 13:12:53,378 [INFO] Worker thread run method finished.
+2025-04-06 13:12:55,900 [INFO] Settings saved to settings.json
+2025-04-06 13:12:55,900 [INFO] Application closing. Settings saved.
+2025-04-06 13:14:51,308 [INFO] Application starting...
+2025-04-06 13:14:51,309 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:14:53,314 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:14:53,420 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:14:59,510 [INFO] Settings saved to settings.json
+2025-04-06 13:14:59,518 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:14:59,518 [INFO] Setting up ChromeDriver...
+2025-04-06 13:14:59,519 [INFO] ====== WebDriver manager ======
+2025-04-06 13:15:00,423 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:00,554 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:00,694 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:15:01,740 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:15:01,741 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:15:01,741 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:15:04,688 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:15:04,771 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:15:06,863 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:15:06,971 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:15:09,410 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:15:09,504 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:15:11,597 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:15:11,597 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:15:11,597 [INFO] Setting up ChromeDriver...
+2025-04-06 13:15:11,598 [INFO] ====== WebDriver manager ======
+2025-04-06 13:15:12,489 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:16,660 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:16,787 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:15:17,833 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:15:17,834 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 13:15:17,834 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 13:15:18,345 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 13:15:18,453 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 13:15:18,746 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 13:15:18,847 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 13:15:19,123 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 13:15:19,222 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 13:15:21,313 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 13:15:21,313 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 13:15:21,313 [INFO] Setting up ChromeDriver...
+2025-04-06 13:15:21,314 [INFO] ====== WebDriver manager ======
+2025-04-06 13:15:22,248 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:26,459 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:15:26,587 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:15:27,638 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:15:27,638 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 13:15:27,638 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 13:15:29,377 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 13:15:29,545 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 13:15:59,219 [INFO] Application starting...
+2025-04-06 13:15:59,220 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:16:00,356 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:16:00,467 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:16:03,022 [INFO] Settings saved to settings.json
+2025-04-06 13:16:03,030 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:16:03,031 [INFO] Setting up ChromeDriver...
+2025-04-06 13:16:03,031 [INFO] ====== WebDriver manager ======
+2025-04-06 13:16:03,959 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:16:04,097 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:16:04,232 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:16:05,282 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:16:05,282 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:16:05,282 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:16:07,799 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:16:07,885 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:16:09,766 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:16:09,855 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:16:11,388 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:16:11,478 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:16:13,568 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:16:13,568 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:16:13,569 [INFO] Setting up ChromeDriver...
+2025-04-06 13:16:13,569 [INFO] ====== WebDriver manager ======
+2025-04-06 13:16:14,569 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:16:21,377 [INFO] Application starting...
+2025-04-06 13:16:21,378 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:16:22,494 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:16:22,604 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:16:24,127 [INFO] Settings saved to settings.json
+2025-04-06 13:16:24,136 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:16:24,136 [INFO] Setting up ChromeDriver...
+2025-04-06 13:16:24,137 [INFO] ====== WebDriver manager ======
+2025-04-06 13:16:25,062 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:16:25,196 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:16:25,321 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:16:26,377 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:16:26,377 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:16:26,377 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:16:28,693 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:16:28,774 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:16:30,335 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:16:30,431 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:16:33,255 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:16:33,334 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:16:35,421 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:16:35,421 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:16:35,421 [INFO] Setting up ChromeDriver...
+2025-04-06 13:16:35,422 [INFO] ====== WebDriver manager ======
+2025-04-06 13:16:36,317 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:06,007 [INFO] Application starting...
+2025-04-06 13:17:06,008 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:17:06,441 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:17:06,559 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:17:07,771 [INFO] Settings saved to settings.json
+2025-04-06 13:17:07,775 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:17:07,775 [INFO] Setting up ChromeDriver...
+2025-04-06 13:17:07,775 [INFO] ====== WebDriver manager ======
+2025-04-06 13:17:08,650 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:08,782 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:08,904 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:17:09,893 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:17:09,893 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:17:09,894 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:17:12,509 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:17:12,588 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:17:14,547 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:17:14,626 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:17:16,082 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:17:16,161 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:17:18,244 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:17:18,244 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:17:18,244 [INFO] Setting up ChromeDriver...
+2025-04-06 13:17:18,244 [INFO] ====== WebDriver manager ======
+2025-04-06 13:17:19,111 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:23,327 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:23,447 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:17:24,436 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:17:24,436 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 13:17:24,437 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 13:17:24,959 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 13:17:25,074 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 13:17:25,373 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 13:17:25,477 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 13:17:25,776 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 13:17:25,882 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 13:17:27,957 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 13:17:27,957 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 13:17:27,957 [INFO] Setting up ChromeDriver...
+2025-04-06 13:17:27,957 [INFO] ====== WebDriver manager ======
+2025-04-06 13:17:28,846 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:33,045 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:17:33,163 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:17:34,158 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:17:34,158 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 13:17:34,159 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 13:17:35,640 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 13:17:35,792 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 13:17:37,157 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 13:17:37,305 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 13:17:38,623 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 13:17:38,769 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 13:17:40,884 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 13:17:40,884 [INFO] Worker thread run method finished.
+2025-04-06 13:18:34,931 [INFO] Application starting...
+2025-04-06 13:18:34,931 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:18:35,374 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:18:35,475 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:18:37,651 [INFO] Settings saved to settings.json
+2025-04-06 13:18:37,655 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:18:37,655 [INFO] Setting up ChromeDriver...
+2025-04-06 13:18:37,655 [INFO] ====== WebDriver manager ======
+2025-04-06 13:18:38,510 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:18:38,637 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:18:38,764 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:18:39,771 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:18:39,771 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:18:39,772 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:18:41,872 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:18:41,954 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:18:53,032 [INFO] Application starting...
+2025-04-06 13:18:53,032 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 13:18:53,464 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 13:18:53,566 [INFO] GUI displayed. Starting event loop.
+2025-04-06 13:18:55,430 [INFO] Settings saved to settings.json
+2025-04-06 13:18:55,434 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:18:55,434 [INFO] Setting up ChromeDriver...
+2025-04-06 13:18:55,434 [INFO] ====== WebDriver manager ======
+2025-04-06 13:18:56,284 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:18:56,407 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:18:56,527 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:18:57,540 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:18:57,540 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:18:57,540 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:18:59,535 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:18:59,615 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:19:01,058 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:19:01,135 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:19:02,615 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:19:02,694 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:19:04,775 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:19:04,775 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:19:04,775 [INFO] Setting up ChromeDriver...
+2025-04-06 13:19:04,775 [INFO] ====== WebDriver manager ======
+2025-04-06 13:19:05,644 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:09,838 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:09,963 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:19:10,960 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:19:10,960 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 13:19:10,961 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 13:19:11,582 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 13:19:11,689 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 13:19:11,973 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 13:19:12,072 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 13:19:12,354 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 13:19:12,453 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 13:19:14,544 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 13:19:14,544 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 13:19:14,544 [INFO] Setting up ChromeDriver...
+2025-04-06 13:19:14,544 [INFO] ====== WebDriver manager ======
+2025-04-06 13:19:15,428 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:19,616 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:19,741 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:19:20,727 [INFO] Chrome driver initialized  (Anti-detection enabled).
+2025-04-06 13:19:20,727 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 13:19:20,728 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 13:19:22,314 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 13:19:22,436 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 13:19:23,819 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 13:19:23,960 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 13:19:25,288 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 13:19:25,433 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 13:19:27,567 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 13:19:27,567 [INFO] Worker thread run method finished.
+2025-04-06 13:19:52,532 [INFO] Settings saved to settings.json
+2025-04-06 13:19:52,534 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 13:19:52,534 [INFO] Setting up ChromeDriver...
+2025-04-06 13:19:52,534 [INFO] ====== WebDriver manager ======
+2025-04-06 13:19:53,441 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:57,624 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:19:58,753 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:19:59,741 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 13:19:59,742 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 13:19:59,742 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 13:20:02,293 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 13:20:02,364 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 13:20:04,711 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 13:20:04,779 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 13:20:06,991 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 13:20:07,056 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 13:20:09,136 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 13:20:09,136 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 13:20:09,136 [INFO] Setting up ChromeDriver...
+2025-04-06 13:20:09,136 [INFO] ====== WebDriver manager ======
+2025-04-06 13:20:10,031 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:20:14,252 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:20:14,380 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:20:15,392 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 13:20:15,392 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 13:20:15,392 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 13:20:15,902 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 13:20:15,995 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 13:20:16,277 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 13:20:16,366 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 13:20:16,645 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 13:20:16,732 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 13:20:18,830 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 13:20:18,830 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 13:20:18,830 [INFO] Setting up ChromeDriver...
+2025-04-06 13:20:18,830 [INFO] ====== WebDriver manager ======
+2025-04-06 13:20:19,729 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:20:23,936 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 13:20:24,056 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 13:20:25,042 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 13:20:25,042 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 13:20:25,043 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 13:20:27,375 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 13:20:27,517 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 13:20:28,865 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 13:20:28,999 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 13:20:30,310 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 13:20:30,453 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 13:20:32,559 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 13:20:32,559 [INFO] Worker thread run method finished.
+2025-04-06 13:20:34,875 [INFO] Settings saved to settings.json
+2025-04-06 13:20:34,875 [INFO] Application closing. Settings saved.
+2025-04-06 14:14:21,831 [INFO] Application starting...
+2025-04-06 14:14:21,831 [INFO] Working directory set to: F:\PyWebPulse
+2025-04-06 14:14:22,265 [INFO] Dependencies satisfied. Initializing GUI...
+2025-04-06 14:14:22,369 [INFO] GUI displayed. Starting event loop.
+2025-04-06 14:14:28,477 [INFO] Settings saved to settings.json
+2025-04-06 14:14:28,557 [INFO] Detected system DNS servers: ['202.142.112.68']
+2025-04-06 14:14:29,282 [INFO] DNS Benchmark Results: {'System (202.142.112.68)': {'latency_ms': 5.18, 'status': 'Success'}, 'Google (8.8.8.8)': {'latency_ms': 37.81, 'status': 'Success'}, 'Cloudflare (1.1.1.1)': {'latency_ms': 52.07, 'status': 'Success'}, 'Quad9 (9.9.9.9)': {'latency_ms': 228.91, 'status': 'Success'}, 'OpenDNS (208.67.222.222)': {'latency_ms': 94.03, 'status': 'Success'}, 'AdGuard DNS (94.140.14.14)': {'latency_ms': 75.77, 'status': 'Success'}, 'Comodo Secure DNS (8.26.56.26)': {'latency_ms': 219.72, 'status': 'Success'}}
+2025-04-06 14:14:29,283 [INFO] Driver setup for https://www.google.com with anti-detection: True
+2025-04-06 14:14:29,284 [INFO] Setting up ChromeDriver...
+2025-04-06 14:14:29,284 [INFO] ====== WebDriver manager ======
+2025-04-06 14:14:30,129 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:30,307 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:30,435 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 14:14:31,428 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 14:14:31,428 [INFO] Driver successfully initialized for https://www.google.com
+2025-04-06 14:14:31,429 [INFO] Starting measure_load_time for https://www.google.com, run 1
+2025-04-06 14:14:33,909 [INFO] Finished measure_load_time for https://www.google.com, run 1. Status: Success
+2025-04-06 14:14:33,981 [INFO] Starting measure_load_time for https://www.google.com, run 2
+2025-04-06 14:14:36,516 [INFO] Finished measure_load_time for https://www.google.com, run 2. Status: Success
+2025-04-06 14:14:36,581 [INFO] Starting measure_load_time for https://www.google.com, run 3
+2025-04-06 14:14:38,787 [INFO] Finished measure_load_time for https://www.google.com, run 3. Status: Success
+2025-04-06 14:14:38,854 [INFO] Quitting driver for URL: https://www.google.com
+2025-04-06 14:14:40,926 [INFO] Driver quit successfully for https://www.google.com.
+2025-04-06 14:14:40,926 [INFO] Driver setup for https://www.wikipedia.org with anti-detection: True
+2025-04-06 14:14:40,926 [INFO] Setting up ChromeDriver...
+2025-04-06 14:14:40,927 [INFO] ====== WebDriver manager ======
+2025-04-06 14:14:41,778 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:45,985 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:46,115 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 14:14:47,100 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 14:14:47,100 [INFO] Driver successfully initialized for https://www.wikipedia.org
+2025-04-06 14:14:47,101 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 1
+2025-04-06 14:14:47,631 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 1. Status: Success
+2025-04-06 14:14:47,720 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 2
+2025-04-06 14:14:48,029 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 2. Status: Success
+2025-04-06 14:14:48,137 [INFO] Starting measure_load_time for https://www.wikipedia.org, run 3
+2025-04-06 14:14:48,421 [INFO] Finished measure_load_time for https://www.wikipedia.org, run 3. Status: Success
+2025-04-06 14:14:48,511 [INFO] Quitting driver for URL: https://www.wikipedia.org
+2025-04-06 14:14:50,580 [INFO] Driver quit successfully for https://www.wikipedia.org.
+2025-04-06 14:14:50,580 [INFO] Driver setup for https://github.com with anti-detection: True
+2025-04-06 14:14:50,580 [INFO] Setting up ChromeDriver...
+2025-04-06 14:14:50,581 [INFO] ====== WebDriver manager ======
+2025-04-06 14:14:51,447 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:55,654 [INFO] Get LATEST chromedriver version for google-chrome
+2025-04-06 14:14:55,772 [INFO] Driver [C:\Users\Pratim\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 14:14:56,764 [INFO] Chrome driver initialized (Headless) (Anti-detection enabled).
+2025-04-06 14:14:56,764 [INFO] Driver successfully initialized for https://github.com
+2025-04-06 14:14:56,764 [INFO] Starting measure_load_time for https://github.com, run 1
+2025-04-06 14:14:58,655 [INFO] Finished measure_load_time for https://github.com, run 1. Status: Success
+2025-04-06 14:14:58,757 [INFO] Starting measure_load_time for https://github.com, run 2
+2025-04-06 14:15:00,158 [INFO] Finished measure_load_time for https://github.com, run 2. Status: Success
+2025-04-06 14:15:00,286 [INFO] Starting measure_load_time for https://github.com, run 3
+2025-04-06 14:15:01,736 [INFO] Finished measure_load_time for https://github.com, run 3. Status: Success
+2025-04-06 14:15:01,880 [INFO] Quitting driver for URL: https://github.com
+2025-04-06 14:15:03,950 [INFO] Driver quit successfully for https://github.com.
+2025-04-06 14:15:03,950 [INFO] Worker thread run method finished.
+2025-04-06 14:15:17,044 [INFO] Settings saved to settings.json
+2025-04-06 14:15:17,044 [INFO] Application closing. Settings saved.

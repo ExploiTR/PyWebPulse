@@ -1,0 +1,16 @@
+{
+  "urls": [
+    "https://www.google.com",
+    "https://www.wikipedia.org",
+    "https://github.com"
+  ],
+  "runs_per_url": 3,
+  "browser": "Chrome",
+  "headless": true,
+  "timeout_seconds": 15,
+  "wait_strategy": "Combined",
+  "anti_detection_enabled": true,
+  "export_format": "CSV",
+  "results": [],
+  "run_dns_benchmark": true
+}
